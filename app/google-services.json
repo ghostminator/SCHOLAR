@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218269347603",
+    "project_id": "scholar-f959b",
+    "storage_bucket": "scholar-f959b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218269347603:android:47a5fd1de44c0b5854f4e6",
+        "android_client_info": {
+          "package_name": "com.ghostminator.scholar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAxQVO3Sd2Mu3ciJuWU2WiJqeMYJWji5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
