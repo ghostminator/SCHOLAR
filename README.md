@@ -37,3 +37,12 @@ To run the SCHOLAR prototype locally on your development machine, ensure you hav
 1. Clone the repository:
    ```bash
    git clone [https://github.com/ghostminator/SCHOLAR.git](https://github.com/ghostminator/SCHOLAR.git)
+
+## Published Research Paper 
+
+Zenodo (EU Funded Research Platform)
+https://zenodo.org/records/20610171?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjQ1MDFjYmY1LTFiNzYtNDg0NS04ZWYxLTQ3MmE3ZGQ1NTk1NiIsImRhdGEiOnt9LCJyYW5kb20iOiIxMGVjMjkwMmQ1NmFkNWY2MTI0NzBhMzQ2ZGMyNzllYiJ9.DIyPaBZ7RTrU6kRFujkD-oV4L3E-QqY7jGcv0zV564qFd2niUACIGZxsRYr4SBt17Dr5PobF5W_mUt4RBUTBPw
+
+Cambridge Press
+https://www.cambridge.org/engage/coe/article-details/6a27e96e810b9dcc8200926e
+
